@@ -2,4 +2,4 @@ Conversión en librería del ejemplo entregado con el núcleo ESP8266 adaptada p
 
 https://github.com/esp8266/ESPWebServer/tree/master/examples/SDWebServer
 
-El editor puede funcionar sin internet, si no se desea esta característica, se debe en **”index.htm”** comentar la línea que incluye el script desde el almacenamiento local, y descomentar la línea que lo lee desde internet.
+El editor puede funcionar sin internet, si no se desea esta característica, se debe en **”index.htm”** comentar la línea que incluye el script desde el almacenamiento local, y descomentar la línea que lo lee desde internet, así bastara con subir al almacenamiento el archivo **”index.htm”**.
